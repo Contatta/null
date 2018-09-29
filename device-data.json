@@ -1,0 +1,104 @@
+{
+    "devices": {
+        "develop": [{
+            "id": 1000006,
+            "__descriptor": "Env. Monitor 001",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "Env. Monitor 001",
+            "jid": "ryver+eddybot@xmpp.dev.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt105/avatars/users/t_-cyDGEglPneMZ/1000006-70x70-2x.png?v=20160518164501",
+            "jidPresenceId": -1000
+        }]
+    },
+    "measuresById": {
+        "1000006": [{
+            "name": "Temperature",
+            "cur": 33.2,
+            "min": 31.4,
+            "max": 42.4,
+            "avg": 35.0,
+            "unit": "°C"
+        }, {
+            "name": "Humidity",
+            "cur": 42.5,
+            "min": 40.6,
+            "max": 46.2,
+            "avg": 42.7,
+            "unit": "%RH"
+        }, {
+            "name": "Pressure",
+            "cur": 997.2,
+            "min": 996.1,
+            "max": 1000.2,
+            "avg": 998.5,
+            "unit": "hPa"
+        }, {
+            "name": "Sound Noise",
+            "cur": 47.2,
+            "min": 46.1,
+            "max": 47.5,
+            "avg": 47.0,
+            "unit": "dB"
+        }]
+    },
+    "activityById": {
+        "1000006": [{
+            "source": {
+                "id": 1000009,
+                "__descriptor": "Michael Morton",
+                "__metadata": {
+                    "type": "Entity.User"
+                }
+            },       
+            "date": "Wed Sep 12 at 1:54am",
+            "subject": "**Task associated with device was completed.**",
+            "body": "#DEMO-2 was moved to **Done**."
+        }, {
+            "source": {
+                "id": 1000006,
+                "__descriptor": "Env. Monitor 001",
+                "__metadata": {
+                    "type": "Entity.Device"
+                }
+            },     
+            "date": "Wed Sep 12 at 1:53am",
+            "subject": "**INFO: Device status update.**",       
+            "body": "*device has started up*"
+        }, {
+            "source": {
+                "id": 1000009,
+                "__descriptor": "Michael Morton",
+                "__metadata": {
+                    "type": "Entity.User"
+                }
+            },
+            "date": "Wed Sep 12 at 1:51am",
+            "subject": "**Sent command to device.**",
+            "body": "```device restart```"
+        }, {
+            "source": {
+                "id": 1000006,
+                "__descriptor": "Env. Monitor 001",
+                "__metadata": {
+                    "type": "Entity.Device"
+                }
+            },            
+            "date": "Wed Sep 12 at 1:46am",
+            "subject": "**Task was created regarding device.**",
+            "body": "#DEMO-2 was auto created because the device is in a bad state."
+        }, {
+            "source": {
+                "id": 1000006,
+                "__descriptor": "Env. Monitor 001",
+                "__metadata": {
+                    "type": "Entity.Device"
+                }
+            },      
+            "date": "Wed Sep 12 at 1:46am",      
+            "subject": "**CRITICAL: Device status update.**",
+            "body": "*no measures reported in past 5 minutes*"
+        }]
+    }
+}
