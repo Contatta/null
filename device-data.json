@@ -11,7 +11,7 @@
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt105/avatars/users/t_-cyDGEglPneMZ/1000006-70x70-2x.png?v=20160518164501",
             "jidPresenceId": -1000
         }],
-        "tnt41118": [{
+        "testdevices": [{
             "id": 1002899,
             "__descriptor": "Heat Sensor 1",
             "__metadata": {
