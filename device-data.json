@@ -10,7 +10,18 @@
             "jid": "ryver+eddybot@xmpp.dev.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt105/avatars/users/t_-cyDGEglPneMZ/1000006-70x70-2x.png?v=20160518164501",
             "jidPresenceId": -1000
-        }]
+        }],
+        "testdevices": [{
+            "id": 1002899,
+            "__descriptor": "Heat Sensor 1",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "Heat Sensor 1",
+            "jid": "tnt41118+73ebfe8ebe724a6d98ac8d82242db7bd@xmpp.dev.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41118/avatars/users/U7oJqenCENheaqY/1002899-140x140.png?v=20180929190914",
+            "jidPresenceId": -1000
+        }]        
     },
     "measuresById": {
         "1000006": [{
