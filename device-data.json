@@ -258,6 +258,54 @@
             "date": "Wed Sep 12 at 1:54am",
             "subject": "**Task associated with device was completed.**",
             "body": "#DEMO-2 was moved to **Done**."
+        }],
+        "1026739": [{
+            "source": {
+                "id": 1026704,
+                "__descriptor": "Vincent",
+                "__metadata": {
+                    "type": "Entity.User"
+                }
+            },       
+            "date": "Wed Sep 12 at 2:00pm",
+            "subject": "Maintenance Performed",
+            "body": "Initial setup and configuration. **Note:** Battery not fully charging."
+        },
+        {
+            "source": {
+                "id": 1026704,
+                "__descriptor": "Vincent",
+                "__metadata": {
+                    "type": "Entity.User"
+                }
+            },       
+            "date": "Wed Sep 13 at 9:00am",
+            "subject": "Maintenance Performed",
+            "body": "Replacement battery installed"
+        },
+        {
+            "source": {
+                "id": 1026704,
+                "__descriptor": "Vincent",
+                "__metadata": {
+                    "type": "Entity.User"
+                }
+            },       
+            "date": "Wed Sep 13 at 11:00am",
+            "subject": "Drone Deployed",
+            "body": "Initial test flight. Drone successfully returned to docking station."
+        },  
+         {
+            "source": {
+                "id": 1026731,
+                "__descriptor": "Security Monitoring Bot",
+                "__metadata": {
+                    "type": "Entity.User"
+                }
+            },       
+            "date": "Wed Sep 14 at 7:00am",
+            "subject": "Drone Deployed",
+            "body": "Automated Deployment **(System Check)**. Drone successfully returned to docking station."
         }]
     }
 }
