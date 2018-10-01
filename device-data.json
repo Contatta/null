@@ -268,7 +268,7 @@
                 }
             },       
             "date": "Wed Sep 12 at 2:00pm",
-            "subject": "Maintenance Performed",
+            "subject": "**Maintenance Performed**",
             "body": "Initial setup and configuration. **Note:** Battery not fully charging."
         },
         {
@@ -280,7 +280,7 @@
                 }
             },       
             "date": "Wed Sep 13 at 9:00am",
-            "subject": "Maintenance Performed",
+            "subject": "**Maintenance Performed**",
             "body": "Replacement battery installed"
         },
         {
@@ -292,7 +292,7 @@
                 }
             },       
             "date": "Wed Sep 13 at 11:00am",
-            "subject": "Drone Deployed",
+            "subject": "**Drone Deployed**",
             "body": "Initial test flight. Drone successfully returned to docking station."
         },  
          {
@@ -304,7 +304,7 @@
                 }
             },       
             "date": "Wed Sep 14 at 7:00am",
-            "subject": "Drone Deployed",
+            "subject": "**Drone Deployed**",
             "body": "Automated Deployment **(System Check)**. Drone successfully returned to docking station."
         }]
     }
