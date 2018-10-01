@@ -11,6 +11,61 @@
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt105/avatars/users/t_-cyDGEglPneMZ/1000006-70x70-2x.png?v=20160518164501",
             "jidPresenceId": -1000
         }],
+        "schooldemo": [{
+            "id": 1026739,
+            "__descriptor": "Drone",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "drone",
+            "jid": "tnt41001+d885c2ae1e08425c93fdaa11f040d018@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/kr-xHh_wCWSruTa/1026739-140x140.png?v=20181001060906",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026738,
+            "__descriptor": "Front Office Camera 1",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "frontofficecam1",
+            "jid": "tnt41001+ea36bf2de7454a52a429b2e2c0cdc0d9@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/9A6TUQZTavJ0O0n/1026738-140x140.png?v=20181001061102",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026734,
+            "__descriptor": "Front Office Camera 2",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "frontofficecam2",
+            "jid": "tnt41001+79cbda2170b3405da222b542de31c4b9@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/B_lbYOmO0_VNL4R/1026734-140x140.png?v=20181001060954",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026736,
+            "__descriptor": "Front Office Audio Mic",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "frontofficemic",
+            "jid": "tnt41001+8e4fcd6a608c4df480cb09772eacc02a@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026733,
+            "__descriptor": "South Parking Lot Camera 1",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "southcam1",
+            "jid": "tnt41001+7e94e17f600a4ce290b978f254c99d86@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/xFxvoOW31P3cOtA/1026733-140x140.png?v=20181001060836",
+            "jidPresenceId": -1000
+        }],
         "testdevices": [{
             "id": 1002899,
             "__descriptor": "Heat Sensor 1",
