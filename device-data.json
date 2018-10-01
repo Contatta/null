@@ -21,6 +21,17 @@
             "jid": "tnt41118+73ebfe8ebe724a6d98ac8d82242db7bd@xmpp.dev.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41118/avatars/users/U7oJqenCENheaqY/1002899-140x140.png?v=20180929190914",
             "jidPresenceId": -1000
+        },
+        {
+            "id": 1002901,
+            "__descriptor": "Heat Sensor 2",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "Heat Sensor 2",
+            "jid": "tnt41118+c25e4067e2da4bea872c20cca33d2583@xmpp.dev.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41118/avatars/users/Rd0NDVYRKkwS09X/1002901-140x140.png",
+            "jidPresenceId": -1000
         }]        
     },
     "measuresById": {
@@ -52,7 +63,65 @@
             "max": 47.5,
             "avg": 47.0,
             "unit": "dB"
-        }]
+        }],
+        "1002899": [{
+            "name": "Temperature",
+            "cur": 33.2,
+            "min": 31.4,
+            "max": 42.4,
+            "avg": 35.0,
+            "unit": "°C"
+        }, {
+            "name": "Humidity",
+            "cur": 42.5,
+            "min": 40.6,
+            "max": 46.2,
+            "avg": 42.7,
+            "unit": "%RH"
+        }, {
+            "name": "Pressure",
+            "cur": 997.2,
+            "min": 996.1,
+            "max": 1000.2,
+            "avg": 998.5,
+            "unit": "hPa"
+        }, {
+            "name": "Sound Noise",
+            "cur": 47.2,
+            "min": 46.1,
+            "max": 47.5,
+            "avg": 47.0,
+            "unit": "dB"
+        }],
+        "1002901": [{
+            "name": "Temperature",
+            "cur": 33.2,
+            "min": 31.4,
+            "max": 42.4,
+            "avg": 35.0,
+            "unit": "°C"
+        }, {
+            "name": "Humidity",
+            "cur": 42.5,
+            "min": 40.6,
+            "max": 46.2,
+            "avg": 42.7,
+            "unit": "%RH"
+        }, {
+            "name": "Pressure",
+            "cur": 997.2,
+            "min": 996.1,
+            "max": 1000.2,
+            "avg": 998.5,
+            "unit": "hPa"
+        }, {
+            "name": "Sound Noise",
+            "cur": 47.2,
+            "min": 46.1,
+            "max": 47.5,
+            "avg": 47.0,
+            "unit": "dB"
+        }]    
     },
     "activityById": {
         "1000006": [{
