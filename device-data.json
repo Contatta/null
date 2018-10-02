@@ -90,6 +90,14 @@
         }]        
     },
     "measuresById": {
+        "1026736": [{
+            "name": "Volume",
+            "cur": 3040,
+            "min": -300,
+            "max": 4800,
+            "avg": "",
+            "unit": "Db"
+        }],        
         "1026738": [{
             "name": "Zoom",
             "cur": 3,
