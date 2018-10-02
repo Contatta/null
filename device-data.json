@@ -95,10 +95,40 @@
             "cur": 3040,
             "min": -300,
             "max": 4800,
-            "avg": "",
-            "unit": "Db"
+            "avg": "N/A",
+            "unit": "dB"
         }],        
         "1026738": [{
+            "name": "Zoom",
+            "cur": 3,
+            "min": 1,
+            "max": 10,
+            "avg": "N/A",
+            "unit": "x"
+        }, {
+            "name": "Storage",
+            "cur": 20.5,
+            "min": 0,
+            "max": 120,
+            "avg": "N/A",
+            "unit": "GB"
+        }],
+        "1026734": [{
+            "name": "Zoom",
+            "cur": 3,
+            "min": 1,
+            "max": 10,
+            "avg": "N/A",
+            "unit": "x"
+        }, {
+            "name": "Storage",
+            "cur": 20.5,
+            "min": 0,
+            "max": 120,
+            "avg": "N/A",
+            "unit": "GB"
+        }],
+        "1026733": [{
             "name": "Zoom",
             "cur": 3,
             "min": 1,
