@@ -92,9 +92,9 @@
     "measuresById": {
         "1026736": [{
             "name": "Volume",
-            "cur": 3040,
-            "min": -300,
-            "max": 4800,
+            "cur": 30.5,
+            "min": -10,
+            "max": 90,
             "avg": "N/A",
             "unit": "dB"
         }],        
