@@ -130,7 +130,7 @@
             "name": "northentrycam",
             "jid": "tnt41001+4da9bd8b404a4708b8bc0c01434e97c2@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
-            "jidPresenceId": -1001
+            "jidPresenceId": -1000
         },
         {
             "id": 1026765,
@@ -141,7 +141,7 @@
             "name": "northparkcam",
             "jid": "tnt41001+e7d73b75e43d478f9dbb5385a1f16fe5@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
-            "jidPresenceId": -1004
+            "jidPresenceId": -1003
         },                          
         {
             "id": 1026733,
