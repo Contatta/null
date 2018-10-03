@@ -175,6 +175,61 @@
             "jid": "tnt41118+c25e4067e2da4bea872c20cca33d2583@xmpp.dev.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41118/avatars/users/Rd0NDVYRKkwS09X/1002901-140x140.png",
             "jidPresenceId": -1000
+        }],
+        "techcompany": [{
+            "id": 1026777,
+            "__descriptor": "Back Entrance Camera",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "backentrycam",
+            "jid": "tnt41002+780ca1eb61e64f42aa4a3f352686d084@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026780,
+            "__descriptor": "Floor 2 Audio Mic",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor2mic",
+            "jid": "tnt41002+76ff7127f81f43aa98ea7fed0c36b489@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
+            "jidPresenceId": -1000
+        },  
+        {
+            "id": 1002901,
+            "__descriptor": "Floor 2 Camera 1",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor2cam1",
+            "jid": "tnt41002+556515f50f67418f91a7801199bf7562@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026781,
+            "__descriptor": "Floor 2 Camera 2",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor2cam2",
+            "jid": "tnt41002+f71e6e2831d34a95863a0d06bcc11be8@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1002901,
+            "__descriptor": "Conference Room Camera",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "conferencecam",
+            "jid": "tnt41002+50a57c6720dc42a4bd4778a19fa86a85@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
         }],    
         "hospital": [{
             "id": 1026767,
@@ -275,6 +330,12 @@
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
         }]  
+    },
+    "pins": {
+        "develop": [1000006],
+        "schooldemo": [1026739, 1026738, 1026734, 1026736, 1026754, 1026752, 1026733],
+        "hospital": [1026767, 1026769, 1026772, 1026771, 1026775, 1026774, 1026773, 1026770, 1026768],
+        "techcompany": [1026777, 1026782, 1026780, 1026779, 1026781, 1026776, 1026778]
     },
     "measuresById": {
         "1026736": [{
