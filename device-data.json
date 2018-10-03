@@ -19,7 +19,7 @@
             },
             "name": "drone",
             "jid": "tnt41001+d885c2ae1e08425c93fdaa11f040d018@xmpp.ryver.com",
-            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/kr-xHh_wCWSruTa/1026739-140x140.png?v=20181001060906",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/Yxf0OkM_XLwtz-Z/1026767-140x140.png?v=20181003012636",
             "jidPresenceId": -1000
         },
         {
@@ -175,7 +175,18 @@
             "jid": "tnt41118+c25e4067e2da4bea872c20cca33d2583@xmpp.dev.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41118/avatars/users/Rd0NDVYRKkwS09X/1002901-140x140.png",
             "jidPresenceId": -1000
-        }]        
+        }],    
+        "hospital": [{
+            "id": 1026767,
+            "__descriptor": "Drone",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "drone",
+            "jid": "tnt41000+de088dcc6a8d4c2e816a765cb8884998@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/Yxf0OkM_XLwtz-Z/1026767-140x140.png?v=20181003012636",
+            "jidPresenceId": -1000
+        }]  
     },
     "measuresById": {
         "1026736": [{
