@@ -640,8 +640,20 @@
             "date": "Wed Sep 13 at 11:00am",
             "subject": "**Drone Deployed**",
             "body": "Initial test flight. Drone successfully returned to docking station."
-        },  
-         {
+        },
+        {
+            "source": {
+                "id": 1026739,
+                "__descriptor": "Drone",
+                "__metadata": {
+                    "type": "Entity.User"
+                }
+            },       
+            "date": "Wed Sep 13 at 11:05am",
+            "subject": "**Docked**",
+            "body": "Re-connected to docking station. Battery charging."
+        },                   
+        {
             "source": {
                 "id": 1026731,
                 "__descriptor": "Security Monitoring Bot",
@@ -652,6 +664,18 @@
             "date": "Wed Sep 14 at 7:00am",
             "subject": "**Drone Deployed**",
             "body": "Automated Deployment **(System Check)**. Drone successfully returned to docking station."
+        },
+        {
+            "source": {
+                "id": 1026739,
+                "__descriptor": "Drone",
+                "__metadata": {
+                    "type": "Entity.User"
+                }
+            },       
+            "date": "Wed Sep 13 at 7:05am",
+            "subject": "**Docked**",
+            "body": "Re-connected to docking station. Battery charging."
         }]
     }
 }
