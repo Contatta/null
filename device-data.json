@@ -186,6 +186,94 @@
             "jid": "tnt41000+de088dcc6a8d4c2e816a765cb8884998@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/Yxf0OkM_XLwtz-Z/1026767-140x140.png?v=20181003012636",
             "jidPresenceId": -1000
+        },
+        {
+            "id": 1026769,
+            "__descriptor": "Floor 1 Audio Mic",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor1mic",
+            "jid": "tnt41000+701ba7a01c6a4bf39404bc2024bd22e5@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026772,
+            "__descriptor": "Floor 1 Camera 1",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor1cam1",
+            "jid": "tnt41000+1802f5946b154047907e65517339e878@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026771,
+            "__descriptor": "Floor 1 Camera 2",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor1cam2",
+            "jid": "tnt41000+e3c5e2a4029d47c88be990dc278a9e59@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026775,
+            "__descriptor": "Floor 2 Audio Mic",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor2mic",
+            "jid": "tnt41000+da763fe6e2824dff978446374a07e5de@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026774,
+            "__descriptor": "Floor 2 Camera 1",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor2cam1",
+            "jid": "tnt41000+1deaa2327211454eaa195ee959cd9b01@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026773,
+            "__descriptor": "Floor 2 Camera 2",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "floor2cam2",
+            "jid": "tnt41000+8a19e52dc3254c799efd4df460f1cde1@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026770,
+            "__descriptor": "Front Entrance Camera 1",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "frontentrycam1",
+            "jid": "tnt41000+9823e87856d24134ba4e9dd16458a380@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026768,
+            "__descriptor": "Front Entrance Camera 2",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "frontentrycam2",
+            "jid": "tnt41000+6734848cba8449eca4461a14b2f02eb8@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
+            "jidPresenceId": -1000
         }]  
     },
     "measuresById": {
