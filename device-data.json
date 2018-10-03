@@ -141,7 +141,7 @@
             "name": "northparkcam",
             "jid": "tnt41001+e7d73b75e43d478f9dbb5385a1f16fe5@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
-            "jidPresenceId": -1003
+            "jidPresenceId": -1002
         },                          
         {
             "id": 1026733,
@@ -185,7 +185,22 @@
             "max": 90,
             "avg": "N/A",
             "unit": "dB"
-        }],        
+        }],     
+        "1026739": [{
+            "name": "Zoom",
+            "cur": 3,
+            "min": 1,
+            "max": 10,
+            "avg": "N/A",
+            "unit": "x"
+        }, {
+            "name": "Charge",
+            "cur": 70,
+            "min": 0,
+            "max": 100,
+            "avg": "N/A",
+            "unit": "%"
+        }],
         "1026738": [{
             "name": "Zoom",
             "cur": 3,
