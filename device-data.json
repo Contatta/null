@@ -56,8 +56,96 @@
             "jidPresenceId": -1000
         },
         {
+            "id": 1026762,
+            "__descriptor": "Cafeteria Audio Mic",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "cafeteriamic",
+            "jid": "tnt41001+50d7cf9b9f1b4b95a9d60fec70074df8@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026764,
+            "__descriptor": "Cafeteria Camera",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "cafeteriacam",
+            "jid": "tnt41001+6f71d2e482924f7ebe49f79597d205e1@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026763,
+            "__descriptor": "Hall A Audio Mic",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "hallamic",
+            "jid": "tnt41001+ee58ced88c994650beb7c7d9d1929773@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1000
+        },
+        {
+            "id": 1026760,
+            "__descriptor": "Hall A Camera",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "hallacam",
+            "jid": "tnt41001+6a799d6f7d2948b3bffb3150962cfe16@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1000
+        },     
+        {
+            "id": 1026761,
+            "__descriptor": "Hall B Audio Mic",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "hallbmic",
+            "jid": "tnt41001+6e4c06ed252940a8a691236431fec356@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1001
+        },
+        {
+            "id": 1026765,
+            "__descriptor": "Hall B Camera",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "hallbcam",
+            "jid": "tnt41001+0939f760ea504e1cb88d12c620ae567e@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1001
+        },      
+        {
+            "id": 1026761,
+            "__descriptor": "North Entrance Camera",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "northentrycam",
+            "jid": "tnt41001+4da9bd8b404a4708b8bc0c01434e97c2@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1001
+        },
+        {
+            "id": 1026765,
+            "__descriptor": "North Parking Lot Camera",
+            "__metadata": {
+                "type": "Entity.Device"
+            },
+            "name": "northparkcam",
+            "jid": "tnt41001+e7d73b75e43d478f9dbb5385a1f16fe5@xmpp.ryver.com",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/XljdQa7fT-XrIie/1026736-140x140.png?v=20181001061109",
+            "jidPresenceId": -1004
+        },                          
+        {
             "id": 1026733,
-            "__descriptor": "South Parking Lot Camera 1",
+            "__descriptor": "South Parking Lot Camera",
             "__metadata": {
                 "type": "Entity.Device"
             },
