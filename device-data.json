@@ -639,7 +639,7 @@
             },       
             "date": "Wed Sep 13 at 11:00am",
             "subject": "**Drone Deployed**",
-            "body": "Initial test flight. Drone successfully returned to docking station."
+            "body": "Initial test flight."
         },
         {
             "source": {
@@ -663,7 +663,7 @@
             },       
             "date": "Wed Sep 14 at 7:00am",
             "subject": "**Drone Deployed**",
-            "body": "Automated Deployment **(System Check)**. Drone successfully returned to docking station."
+            "body": "Automated Deployment **(System Check)**. Perimeter circle and return to dock."
         },
         {
             "source": {
