@@ -161,6 +161,7 @@
                 "type": "Entity.Device"
             },
             "name": "Heat Sensor 1",
+            "description": "Outdoor Wireless Heat Sensor",
             "jid": "tnt41118+73ebfe8ebe724a6d98ac8d82242db7bd@xmpp.dev.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41118/avatars/users/U7oJqenCENheaqY/1002899-140x140.png?v=20180929190914",
             "jidPresenceId": -1000
@@ -172,6 +173,7 @@
                 "type": "Entity.Device"
             },
             "name": "Heat Sensor 2",
+            "description": "Outdoor Wireless Heat Sensor\\nSecond line?",
             "jid": "tnt41118+c25e4067e2da4bea872c20cca33d2583@xmpp.dev.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41118/avatars/users/Rd0NDVYRKkwS09X/1002901-140x140.png",
             "jidPresenceId": -1000
@@ -333,6 +335,7 @@
     },
     "pins": {
         "develop": [1000006],
+        "testdevices": [1002899],
         "schooldemo": [1026739, 1026738, 1026734, 1026736, 1026754, 1026752, 1026733],
         "hospital": [1026767, 1026769, 1026772, 1026771, 1026775, 1026774, 1026773, 1026770, 1026768],
         "techcompany": [1026777, 1026782, 1026780, 1026779, 1026781, 1026776, 1026778]
