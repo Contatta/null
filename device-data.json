@@ -199,7 +199,7 @@
             "jidPresenceId": -1000
         },  
         {
-            "id": 1002901,
+            "id": 1026779,
             "__descriptor": "Floor 2 Camera 1",
             "__metadata": {
                 "type": "Entity.Device"
@@ -221,7 +221,7 @@
             "jidPresenceId": -1000
         },
         {
-            "id": 1002901,
+            "id": 1026782,
             "__descriptor": "Conference Room Camera",
             "__metadata": {
                 "type": "Entity.Device"
