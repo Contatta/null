@@ -18,8 +18,9 @@
                 "type": "Entity.Device"
             },
             "name": "drone",
+            "description": "DJI Inspire 1 Pro Drone with 4K Camera",
             "jid": "tnt41001+d885c2ae1e08425c93fdaa11f040d018@xmpp.ryver.com",
-            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/Yxf0OkM_XLwtz-Z/1026767-140x140.png?v=20181003012636",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/Ic2wU2unc_q4-9b/1026767-140x140.png?v=20181003082921",
             "jidPresenceId": -1000
         },
         {
@@ -29,6 +30,7 @@
                 "type": "Entity.Device"
             },
             "name": "frontofficecam1",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41001+ea36bf2de7454a52a429b2e2c0cdc0d9@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -40,6 +42,7 @@
                 "type": "Entity.Device"
             },
             "name": "frontofficecam2",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41001+79cbda2170b3405da222b542de31c4b9@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -51,6 +54,7 @@
                 "type": "Entity.Device"
             },
             "name": "frontofficemic",
+            "description": "Security Surveillance Microphone",
             "jid": "tnt41001+8e4fcd6a608c4df480cb09772eacc02a@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
             "jidPresenceId": -1000
@@ -62,6 +66,7 @@
                 "type": "Entity.Device"
             },
             "name": "cafeteriamic",
+            "description": "Security Surveillance Microphone",
             "jid": "tnt41001+50d7cf9b9f1b4b95a9d60fec70074df8@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
             "jidPresenceId": -1000
@@ -73,6 +78,7 @@
                 "type": "Entity.Device"
             },
             "name": "cafeteriacam",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41001+6f71d2e482924f7ebe49f79597d205e1@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -84,6 +90,7 @@
                 "type": "Entity.Device"
             },
             "name": "hallamic",
+            "description": "Security Surveillance Microphone",
             "jid": "tnt41001+ee58ced88c994650beb7c7d9d1929773@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
             "jidPresenceId": -1000
@@ -95,6 +102,7 @@
                 "type": "Entity.Device"
             },
             "name": "hallacam",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41001+6a799d6f7d2948b3bffb3150962cfe16@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -106,6 +114,7 @@
                 "type": "Entity.Device"
             },
             "name": "hallbmic",
+            "description": "Security Surveillance Microphone",
             "jid": "tnt41001+6e4c06ed252940a8a691236431fec356@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
             "jidPresenceId": -1001
@@ -117,6 +126,7 @@
                 "type": "Entity.Device"
             },
             "name": "hallbcam",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41001+0939f760ea504e1cb88d12c620ae567e@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1001
@@ -128,6 +138,7 @@
                 "type": "Entity.Device"
             },
             "name": "northentrycam",
+            "description": "Indoor/Outdoor Surveillance Camera w/Night Vision",
             "jid": "tnt41001+4da9bd8b404a4708b8bc0c01434e97c2@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -139,6 +150,7 @@
                 "type": "Entity.Device"
             },
             "name": "northparkcam",
+            "description": "Indoor/Outdoor Surveillance Camera w/Night Vision",
             "jid": "tnt41001+e7d73b75e43d478f9dbb5385a1f16fe5@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1002
@@ -150,6 +162,7 @@
                 "type": "Entity.Device"
             },
             "name": "southcam1",
+            "description": "Indoor/Outdoor Surveillance Camera w/Night Vision",
             "jid": "tnt41001+7e94e17f600a4ce290b978f254c99d86@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -185,6 +198,7 @@
                 "type": "Entity.Device"
             },
             "name": "backentrycam",
+            "description": "Indoor/Outdoor Surveillance Camera w/Night Vision",
             "jid": "tnt41002+780ca1eb61e64f42aa4a3f352686d084@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -196,6 +210,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor2mic",
+            "description": "Security Surveillance Microphone",
             "jid": "tnt41002+76ff7127f81f43aa98ea7fed0c36b489@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
             "jidPresenceId": -1000
@@ -207,6 +222,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor2cam1",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41002+556515f50f67418f91a7801199bf7562@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -218,6 +234,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor2cam2",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41002+f71e6e2831d34a95863a0d06bcc11be8@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -229,6 +246,7 @@
                 "type": "Entity.Device"
             },
             "name": "conferencecam",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41002+50a57c6720dc42a4bd4778a19fa86a85@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -240,8 +258,9 @@
                 "type": "Entity.Device"
             },
             "name": "drone",
+            "description": "DJI Inspire 1 Pro Drone with 4K Camera",
             "jid": "tnt41000+de088dcc6a8d4c2e816a765cb8884998@xmpp.ryver.com",
-            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/Yxf0OkM_XLwtz-Z/1026767-140x140.png?v=20181003012636",
+            "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/Ic2wU2unc_q4-9b/1026767-140x140.png?v=20181003082921",
             "jidPresenceId": -1000
         },
         {
@@ -251,6 +270,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor1mic",
+            "description": "Security Surveillance Microphone",
             "jid": "tnt41000+701ba7a01c6a4bf39404bc2024bd22e5@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
             "jidPresenceId": -1000
@@ -262,6 +282,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor1cam1",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41000+1802f5946b154047907e65517339e878@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -273,6 +294,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor1cam2",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41000+e3c5e2a4029d47c88be990dc278a9e59@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -284,6 +306,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor2mic",
+            "description": "Security Surveillance Microphone",
             "jid": "tnt41000+da763fe6e2824dff978446374a07e5de@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/xF2ptL6kPCpNWxH/1026769-140x140.png?v=20181003012757",
             "jidPresenceId": -1000
@@ -295,6 +318,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor2cam1",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41000+1deaa2327211454eaa195ee959cd9b01@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -306,6 +330,7 @@
                 "type": "Entity.Device"
             },
             "name": "floor2cam2",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41000+8a19e52dc3254c799efd4df460f1cde1@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -317,6 +342,7 @@
                 "type": "Entity.Device"
             },
             "name": "frontentrycam1",
+            "description": "Indoor Surveillance Camera",
             "jid": "tnt41000+9823e87856d24134ba4e9dd16458a380@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
@@ -328,6 +354,7 @@
                 "type": "Entity.Device"
             },
             "name": "frontentrycam2",
+            "description": "Indoor/Outdoor Surveillance Camera w/Night Vision",
             "jid": "tnt41000+6734848cba8449eca4461a14b2f02eb8@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41001/avatars/users/Brc7S6wrvA_ToJ6/1026738-140x140.png?v=20181003013059",
             "jidPresenceId": -1000
