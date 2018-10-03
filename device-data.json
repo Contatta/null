@@ -13,11 +13,11 @@
         }],
         "schooldemo": [{
             "id": 1026739,
-            "__descriptor": "Drone",
+            "__descriptor": "Drone Interceptor",
             "__metadata": {
                 "type": "Entity.Device"
             },
-            "name": "Drone",
+            "name": "Drone Interceptor",
             "description": "DJI Inspire 1 Pro Drone with 4K Camera",
             "jid": "tnt41001+d885c2ae1e08425c93fdaa11f040d018@xmpp.ryver.com",
             "avatarUrl": "https://contattafiles.s3.us-west-1.amazonaws.com/tnt41000/avatars/users/Ic2wU2unc_q4-9b/1026767-140x140.png?v=20181003082921",
